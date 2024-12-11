@@ -6,3 +6,6 @@ The materials in the repository will be available until January 12, 2025
 
 The labs folder is also available in a convenience repo [KafkaLabs-Dec-9](https://github.com/ExgnosisClasses/KafkaLabs-Dec-9) for the duration of the class.
 
+### Training Image
+
+Docker image for the training environment and instructions are both [here](https://hub.docker.com/r/elephantscale/es-training)
